@@ -1,0 +1,19 @@
+body{
+    background-image:url("bg.jpg");
+}
+
+
+.oragami{
+    display: flex;
+    justify-content: space-evenly;
+    font-family: fantasy;
+    flex-wrap: wrap;
+}
+
+.oragami{
+    border:2px solid black;
+}
+
+.org *{
+    margin:30px;
+}
